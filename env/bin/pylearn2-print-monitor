@@ -1,0 +1,7 @@
+#!/home/ram_aditya/DR-DA/env/bin/python2
+# EASY-INSTALL-DEV-SCRIPT: 'pylearn2==0.1.dev0','pylearn2-print-monitor'
+__requires__ = 'pylearn2==0.1.dev0'
+__import__('pkg_resources').require('pylearn2==0.1.dev0')
+__file__ = '/home/ram_aditya/DR-DA/env/src/pylearn2/bin/pylearn2-print-monitor'
+with open(__file__) as f:
+    exec(compile(f.read(), __file__, 'exec'))
