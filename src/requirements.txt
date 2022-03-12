@@ -5,7 +5,7 @@ ghalton==0.6
 # -e git+https://github.com/dnouri/nolearn.git@1f02036969d975f8ff8309949eebad9cdee3521d#egg=nolearn-master
 numpy==1.9.2
 pandas==0.16.0
-Pillow==2.7.0
+Pillow==9.0.1
 # -e git+git@github.com:lisa-lab/pylearn2.git@74fd21b77f24620de442768cd15f22ad06c7fa2c#egg=pylearn2-master
 PyYAML==3.11
 scikit-image==0.11.3
